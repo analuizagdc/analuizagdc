@@ -1,4 +1,4 @@
-## Oi! Sou a dev Ana Carvalho. Sou estudante de Ciência da Computação e tenho um curso técnico em tecnologia da informação!
+## Oi! Sou a dev Ana Carvalho.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analuizagdc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
